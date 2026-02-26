@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
