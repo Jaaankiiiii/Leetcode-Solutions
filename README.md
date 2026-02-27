@@ -87,4 +87,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0046-permutations) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
