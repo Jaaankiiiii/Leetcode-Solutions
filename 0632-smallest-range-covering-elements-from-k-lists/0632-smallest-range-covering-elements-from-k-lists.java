@@ -22,9 +22,6 @@ class Solution {
             max = Math.max(max,value);
             pq.add(new Triplet(value, i, 0));
         }
-        // pq.add(new Triplet(nums.get(0).get(0),0,0));
-        // pq.add(new Triplet(nums.get(1).get(0),1,0));
-        // pq.add(new Triplet(nums.get(2).get(0),2,0));
         while(pq.size() == nums.size()){
             // int max = max(max(nums[0,0],nums[1,0]),nums[2,0]);
             Triplet t = pq.remove();
