@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0014-longest-common-prefix](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
