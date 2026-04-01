@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0051-n-queens) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Two Pointers
@@ -115,6 +117,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
