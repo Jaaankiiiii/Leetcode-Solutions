@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
