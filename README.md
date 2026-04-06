@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
