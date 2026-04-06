@@ -1,10 +1,12 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        if(n==0) return false;
-        if(n==1 || n==2) return true;
-        if(n%2 == 0){
-            return isPowerOfTwo(n/2);
+        int countOfOne = 0;
+        while(n>=1 && countOfOne<=2){
+            int r = n%2;
+            if(r==1) countOfOne++;
+            n=n/2;
         }
+        if(countOfOne==1) return true;
         return false;
     }
 }
