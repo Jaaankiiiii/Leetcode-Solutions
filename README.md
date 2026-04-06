@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -31,6 +32,7 @@
 | [0036-valid-sudoku](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Two Pointers
 |  |
@@ -151,4 +153,12 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
