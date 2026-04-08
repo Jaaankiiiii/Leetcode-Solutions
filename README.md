@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -26,6 +27,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Sorting
 |  |
 | ------- |
