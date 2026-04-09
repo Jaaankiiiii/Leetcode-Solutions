@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -29,6 +30,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
