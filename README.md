@@ -22,6 +22,7 @@
 | [0724-find-pivot-index](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0861-score-after-flipping-matrix](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1109-corporate-flight-bookings](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -35,6 +36,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1109-corporate-flight-bookings](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
