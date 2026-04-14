@@ -1,15 +1,14 @@
 class Solution {
     public void reverseString(char[] s) {
-        int n=s.length;
-        int i=0;
-        int j=n-1;
-        while(i<j){
+        recursion(s,0,s.length-1);
+    }
+    public void recursion(char[] s, int i, int j){
+        if(i >= j) return;
+        else{
             char temp = s[i];
             s[i] = s[j];
             s[j] = temp;
-            i++;
-            j--;
+            recursion(s,i+1,j-1);
         }
-        
     }
 }
