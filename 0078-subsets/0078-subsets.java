@@ -1,13 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        for(int i =0; i<Math.pow(2,nums.length); i++){
-            List<Integer> a = new ArrayList<>();
-            for(int j=0; j<nums.length;j++){
-                if((i>>j)%2==1) a.add(nums[j]);
-            }
-            ans.add(a);
-        }
+        ArrayList<Integer> a = new ArrayList<>();
+        subset(nums,a,ans,0);
         return ans;
+    }
+    public void subset(int[] nums, ArrayList<Integer> a, List<List<Integer>> ans, int idx){
+        if(idx==nums.length){
+            ans.add(new ArrayList<>(a));
+            return;
+        }
+        int ele = nums[idx];
+        subset(nums,a,ans,idx+1);
+        a.add(ele);
+        subset(nums,a,ans,idx+1);
+        a.remove(a.size()-1);
     }
 }
