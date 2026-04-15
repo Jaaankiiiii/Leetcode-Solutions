@@ -7,53 +7,42 @@ class Solution {
                 board[i][j] = '.';
             }
         }
-        nqueen(board,0,n,ans);
+        check(board,0,ans);
         return ans;
     }
-    public static void nqueen(char[][] board, int row, int n, List<List<String>> ans){
-        if(row==n){
-            List<String> a = new ArrayList<>();
-            for(int i=0; i<n; i++){
-                StringBuilder s = new StringBuilder("");
-                for(int j=0; j<n; j++){
-                    s.append(board[i][j]);
+    public void check(char[][] board, int row,List<List<String>> ans ){
+        if(row==board.length){
+            ArrayList<String> a = new ArrayList<>();
+            for(int i=0; i<board.length; i++){
+                StringBuilder str = new StringBuilder("");
+                for(int j=0; j<board.length; j++){
+                    str.append(board[i][j]);
                 }
-                String str = s.toString();
-                a.add(str);
+                a.add(str.toString());
             }
-            ans.add(a);
+            ans.add(new ArrayList<>(a));
+            return;
         }
-        for(int j=0; j<n; j++){
-            if(isSafe(board,row,j,n)){
-                board[row][j] = 'Q';
-                nqueen(board,row+1,n,ans);
-                board[row][j] = '.';
+        
+        for(int j=0; j<board.length; j++){
+            if(isSafe(board,row,j)){
+                board[row][j]='Q';
+                check(board,row+1,ans);
+                board[row][j]='.';
             }
         }
     }
-
-    public static boolean isSafe(char[][] board, int row, int col,int n){
-        for(int i=0; i<n; i++){
-            if(board[i][col]=='Q'){
-                return false;
-            }
+    public boolean isSafe(char[][] board, int row, int col){
+        int n=board.length;
+        for(int i=0; i<board.length; i++){
+            if(board[i][col] == 'Q') return false;
         }
-        for(int j=0; j<n; j++){
-            if(board[row][j]=='Q'){
-                return false;
-            }
+        for(int j=0; j<board.length; j++){
+            if(board[row][j] == 'Q') return false;
         }
 
         int i=row;
         int j=col;
-        while(i>=0 && j>=0){
-            if(board[i][j]=='Q') return false;
-            i--;
-            j--;
-        }
-
-        i=row;
-        j=col;
         while(i<n && j<n){
             if(board[i][j]=='Q') return false;
             i++;
@@ -62,10 +51,10 @@ class Solution {
 
         i=row;
         j=col;
-        while(i>=0 && j<n){
+        while(i>=0 && j>=0){
             if(board[i][j]=='Q') return false;
             i--;
-            j++;
+            j--;
         }
 
         i=row;
@@ -74,6 +63,14 @@ class Solution {
             if(board[i][j]=='Q') return false;
             i++;
             j--;
+        }
+
+        i=row;
+        j=col;
+        while(i>=0 && j<n){
+            if(board[i][j]=='Q') return false;
+            i--;
+            j++;
         }
         return true;
     }
