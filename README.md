@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0260-single-number-iii) |
@@ -103,6 +104,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -117,6 +119,7 @@
 | [0014-longest-common-prefix](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -161,6 +164,7 @@
 | [0051-n-queens](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +177,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0861-score-after-flipping-matrix](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
