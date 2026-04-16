@@ -34,6 +34,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0344-reverse-string](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Recursion
 |  |
 | ------- |
