@@ -31,6 +31,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Prefix Sum
@@ -57,6 +58,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
 |  |
 | ------- |
