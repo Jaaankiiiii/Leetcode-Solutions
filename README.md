@@ -75,6 +75,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -213,10 +215,12 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
