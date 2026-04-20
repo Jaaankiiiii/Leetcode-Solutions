@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -147,11 +148,13 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Bit Manipulation
 |  |
@@ -203,6 +206,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
