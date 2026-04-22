@@ -51,6 +51,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@
 | [0344-reverse-string](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
