@@ -17,6 +17,7 @@
 | [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -112,6 +114,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -245,6 +248,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Linked List
