@@ -2,7 +2,7 @@ class Solution {
     public int minSubArrayLen(int target, int[] nums) {
         int n = nums.length;
         int i = 0, j=0, sum = 0, minLen = Integer.MAX_VALUE, len = 0;
-        while(j<n+1 && i<n){
+        while(j<n+1){
             
             if(sum >= target) {
                 len = j-i;
