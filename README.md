@@ -35,6 +35,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1109-corporate-flight-bookings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1109-corporate-flight-bookings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -73,6 +75,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
@@ -126,6 +129,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -213,6 +217,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
