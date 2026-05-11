@@ -16,7 +16,6 @@
 class Solution {
     void invert(TreeNode root){
         if(root==null) return;
-        if(root.left==null && root.right==null) return;
         TreeNode l = root.left;
         TreeNode r = root.right;
         root.left = r;
