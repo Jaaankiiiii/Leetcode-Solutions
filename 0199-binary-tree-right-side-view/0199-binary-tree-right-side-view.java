@@ -14,21 +14,17 @@
  * }
  */
 class Solution {
-    public List<Integer> rightSideView(TreeNode root) {
-        //using level order traversal
-        List<Integer> ans = new ArrayList<>();
-        if(root==null) return ans;
-        Queue<TreeNode> q = new ArrayDeque<>();
-        q.offer(root);
-        while(!q.isEmpty()){
-            int size = q.size();
-            for(int i=0; i<size; i++){
-                TreeNode curr = q.poll();
-                if(i==size-1) ans.add(curr.val);
-                if(curr.left!=null) q.offer(curr.left);
-                if(curr.right!=null) q.offer(curr.right);
-            }
+    List<Integer> ans = new ArrayList<>();
+    public void dfs(TreeNode root, int level){
+        if(root==null) return;
+        if(level==ans.size()){
+            ans.add(root.val);
         }
+        dfs(root.right,level+1);
+        dfs(root.left,level+1);
+    }
+    public List<Integer> rightSideView(TreeNode root) {
+        dfs(root,0);
         return ans;
     }
 }
