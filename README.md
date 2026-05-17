@@ -16,6 +16,7 @@
 | [0078-subsets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@
 | [0036-valid-sudoku](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -183,6 +185,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -200,6 +203,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -282,6 +286,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Stack
