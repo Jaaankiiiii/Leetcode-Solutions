@@ -7,12 +7,12 @@ class Solution {
             this.dist = dist;
         }
         public int compareTo(Pair p){
-            if(this.dist==p.dist) return this.el - p.el;
-            return this.dist - p.dist;
+            if(this.dist==p.dist) return p.el-this.el;
+            return p.dist-this.dist;
         }
     }
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
-        PriorityQueue<Pair> pq = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Pair> pq = new PriorityQueue<>();
         for(int i=0; i<arr.length; i++){
             int el = arr[i];
             int dist = Math.abs(x-el);
