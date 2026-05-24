@@ -35,6 +35,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1109-corporate-flight-bookings) |
@@ -105,6 +106,7 @@
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Data Stream
 |  |
@@ -269,6 +272,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -311,6 +315,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -351,4 +356,12 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
