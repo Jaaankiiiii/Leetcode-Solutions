@@ -46,6 +46,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -85,6 +86,7 @@
 | [0904-fruit-into-baskets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
@@ -114,6 +116,7 @@
 | [0658-find-k-closest-elements](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
