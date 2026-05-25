@@ -1,5 +1,5 @@
 class Solution {
-    class Triplet implements Comparable<Triplet> {
+    class Triplet implements Comparable <Triplet>{
         int n;
         int r;
         int c;
@@ -9,36 +9,37 @@ class Solution {
             this.c = c;
         }
         public int compareTo(Triplet t){
-            return this.n - t.n;
+            return this.n-t.n;
         }
     }
     public int[] smallestRange(List<List<Integer>> nums) {
         PriorityQueue<Triplet> pq = new PriorityQueue<>();
-        int minRange = Integer.MAX_VALUE;
-        int[] arr = new int[2];
         int max = Integer.MIN_VALUE;
         for(int i=0; i<nums.size(); i++){
-            int value = nums.get(i).get(0);
-            max = Math.max(max,value);
-            pq.add(new Triplet(value, i, 0));
+            int num = nums.get(i).get(0);
+            if(num >max) max = num;
+            pq.add(new Triplet(num,i,0));
+            
         }
-        while(pq.size() == nums.size()){
-            // int max = max(max(nums[0,0],nums[1,0]),nums[2,0]);
+        
+        int minRange = Integer.MAX_VALUE;
+        int[] arr= new int[2];
+        while(pq.size()==nums.size()){
             Triplet t = pq.remove();
-            int range = max-t.n;
-            if(range < minRange) {
+            int row = t.r;
+            int col = t.c;
+            int range = max - t.n;
+            if(range < minRange){
                 minRange = range;
                 arr[0] = t.n;
                 arr[1] = max;
             }
+           
+            // int num = t.n;
             if(t.c+1 < nums.get(t.r).size()){
-                int newNum = nums.get(t.r).get(t.c + 1);
-                int newR = t.r;
-                int newC = t.c + 1;
-                pq.add(new Triplet(newNum, newR, newC));
-                if(newNum > max){
-                    max=newNum;
-                }
+                int newnum = nums.get(row).get(col+1);
+                if(newnum > max) max = newnum;
+                pq.add(new Triplet(newnum, row, col+1));
             }
         }
         return arr;
