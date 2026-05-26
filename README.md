@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -202,6 +203,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -227,6 +229,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -335,6 +338,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0901-online-stock-span) |
