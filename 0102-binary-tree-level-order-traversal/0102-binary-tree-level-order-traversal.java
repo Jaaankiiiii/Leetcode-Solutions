@@ -19,14 +19,14 @@ class Solution {
         if(root==null) return ans;
         Queue<TreeNode> q = new ArrayDeque<>();
         q.offer(root);
-        while(!q.isEmpty()){
+        while(q.size()>0){
             int size = q.size();
             List<Integer> a = new ArrayList<>();
             for(int i=0; i<size; i++){
-                TreeNode r = q.poll();
-                a.add(r.val);
-                if(r.left != null) q.offer(r.left);
-                if(r.right != null) q.offer(r.right);
+                TreeNode curr = q.poll();
+                a.add(curr.val);
+                if(curr.left!=null) q.offer(curr.left);
+                if(curr.right!=null) q.offer(curr.right);
             }
             ans.add(a);
         }
