@@ -183,6 +183,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -251,6 +252,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -292,6 +294,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Bit Manipulation
@@ -394,6 +397,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0897-increasing-order-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -436,6 +440,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Geometry
 |  |
