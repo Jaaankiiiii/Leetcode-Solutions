@@ -180,6 +180,7 @@
 | [0386-lexicographical-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -245,6 +246,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -285,6 +287,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -429,6 +432,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
