@@ -165,6 +165,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -220,6 +221,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -250,6 +252,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -353,6 +356,7 @@
 | [0042-trapping-rain-water](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0901-online-stock-span) |
@@ -375,6 +379,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0622-design-circular-queue](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
