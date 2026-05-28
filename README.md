@@ -233,6 +233,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -269,6 +270,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -287,6 +289,7 @@
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0861-score-after-flipping-matrix](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
@@ -390,6 +393,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
