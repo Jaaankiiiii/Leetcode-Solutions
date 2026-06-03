@@ -1,24 +1,26 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        ArrayList<Integer> a = new ArrayList<>();
-        boolean[] used = new boolean[nums.length];
-        combinations(nums, ans, a,used);
+        List<Integer> a = new ArrayList<>();
+        boolean[] visited = new boolean[nums.length];
+        for(int i=0;i<nums.length;i++) visited[i]=false;
+        helper(nums,-1,ans,a,visited);
         return ans;
-        
     }
-    public void combinations(int[] nums, List<List<Integer>> ans , ArrayList<Integer> a , boolean[] used){
+    public void helper(int[] nums , int idx, List<List<Integer>> ans, List<Integer> a, boolean[] visited ){
+        if(idx > nums.length) return;
         if(a.size()==nums.length){
             ans.add(new ArrayList<>(a));
             return;
         }
         for(int i=0; i<nums.length; i++){
-            if(used[i] == true) continue;
-            a.add(nums[i]);
-            used[i] = true;
-            combinations(nums, ans, a, used);
-            a.remove(a.size()-1);
-            used[i] = false;
+            if(!visited[i]){
+                a.add(nums[i]);
+                visited[i] = true;
+                helper(nums,i,ans,a,visited);
+                a.remove(a.size()-1);
+                visited[i] = false;
+            }
         }
     }
 }
