@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -109,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -328,6 +330,7 @@
 | [0037-sudoku-solver](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0078-subsets) |
