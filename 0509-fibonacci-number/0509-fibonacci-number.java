@@ -1,6 +1,14 @@
 class Solution {
-    public int fib(int n) {
+    static int[] d;
+    public int fibo(int n) {
         if(n<=1) return n;
-        return fib(n-1)+fib(n-2);
+        if(d[n]!=0) return d[n];
+        int ans = fibo(n-1)+fibo(n-2);
+        d[n] = ans;
+        return ans;
+    }
+    public int fib(int n){
+        d=new int[n+1];
+        return fibo(n);
     }
 }
