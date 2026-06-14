@@ -35,6 +35,7 @@
 | [0704-binary-search](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -217,6 +218,7 @@
 | [0042-trapping-rain-water](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
