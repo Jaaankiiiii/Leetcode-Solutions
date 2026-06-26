@@ -222,6 +222,7 @@
 | [0062-unique-paths](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -353,6 +354,7 @@
 | [0009-palindrome-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -384,6 +386,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
