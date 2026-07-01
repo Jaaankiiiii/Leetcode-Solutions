@@ -59,6 +59,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Tree
 |  |
 | ------- |
