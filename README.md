@@ -25,6 +25,7 @@
 | [0136-single-number](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Jaaankiiiii/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
